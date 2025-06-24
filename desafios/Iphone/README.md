@@ -1,5 +1,8 @@
 #[DIO](www.dio.me) __Desafio Dio Trilha Java básico__
 
+Neste projeto foram realizadas a adição da modelagem UML e a adição do programa feito em Java.
+Foi utilizado como base o README do professor com pequenas alterações e seguindo as diretrizes do projeto.
+
 #### Funcionalidades a Modelar
 1. **Reprodutor Musical**
     - Métodos: `tocar()`, `pausar()`, `selecionarMusica(String musica)`
